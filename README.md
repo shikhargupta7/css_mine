@@ -1,1 +1,1 @@
-https://shikhargupta7.github.io/cssmine/
+https://shikhargupta7.github.io/css_mine/
